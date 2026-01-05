@@ -19,7 +19,7 @@
 					placeholder="YOUR WORK EMAIL" 
 					class="w-full border border-white/20 bg-white/5 px-4 py-3 text-[11px] font-bold tracking-widest text-white placeholder-white/50 focus:border-white focus:outline-none focus:ring-0 uppercase"
 				/>
-				<button class="bg-white px-6 py-3 text-[11px] font-bold tracking-widest text-gray-900 hover:bg-gray-100 uppercase whitespace-nowrap">
+				<button class="bg-secondary-500 px-6 py-3 text-[11px] font-bold tracking-widest text-gray-900 hover:bg-secondary-600 uppercase whitespace-nowrap">
 					Get Started
 				</button>
 			</div>

@@ -42,7 +42,7 @@
 				<a href="#" class="text-[11px] font-semibold tracking-widest text-gray-600 hover:text-gray-900 uppercase">
 					Contact Us
 				</a>
-				<a href="#" class="bg-gray-900 px-4 py-2 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
+				<a href="#" class="bg-secondary-500 px-4 py-2 text-[11px] font-bold tracking-widest text-gray-900 transition-colors hover:bg-secondary-600 uppercase">
 					Get Started
 				</a>
 			</div>

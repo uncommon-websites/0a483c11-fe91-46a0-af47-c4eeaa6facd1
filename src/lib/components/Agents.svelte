@@ -61,11 +61,11 @@
 							<div class="text-[10px] text-white/60">Quality vetting</div>
 						</div>
 
-						<div class="h-0.5 w-12 bg-white/20 mb-8"></div>
+						<div class="h-0.5 w-12 bg-secondary-500/40 mb-8"></div>
 
 						<!-- Step 4 -->
 						<div class="flex flex-col items-center text-center flex-1">
-							<div class="mb-3 flex h-16 w-16 items-center justify-center rounded-full bg-white shadow-lg">
+							<div class="mb-3 flex h-16 w-16 items-center justify-center rounded-full bg-secondary-400 shadow-lg">
 								<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-gray-900">
 									<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
 									<polyline points="22 4 12 14.01 9 11.01"/>

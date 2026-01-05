@@ -38,7 +38,7 @@
 				<p class="mb-8 text-lg leading-relaxed text-gray-600">
 					Have more questions? Our team is ready to discuss your specific hiring needs and how AVIVYS can help you achieve better outcomes.
 				</p>
-				<a href="#" class="inline-block bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
+				<a href="#" class="inline-block bg-secondary-500 px-6 py-3 text-[11px] font-bold tracking-widest text-gray-900 transition-colors hover:bg-secondary-600 uppercase">
 					Contact Us
 				</a>
 			</div>

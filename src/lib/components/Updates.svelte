@@ -59,7 +59,7 @@
 
 				<!-- Card 2 -->
 				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
-					<div class="h-24 w-32 shrink-0 bg-gray-900 flex flex-col items-center justify-center text-white p-2 text-center">
+					<div class="h-24 w-32 shrink-0 bg-secondary-500 flex flex-col items-center justify-center text-gray-900 p-2 text-center">
 						<div class="text-xs font-bold mb-1">Financial</div>
 						<div class="text-sm font-bold">Services</div>
 					</div>

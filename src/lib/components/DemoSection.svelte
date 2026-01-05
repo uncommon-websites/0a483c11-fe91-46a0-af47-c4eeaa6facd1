@@ -41,8 +41,8 @@
 				<p class="text-sm text-white/60">Domain specialists in technology and financial services</p>
 			</div>
 			<div class="text-center">
-				<div class="mb-4 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white/10">
-					<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-white">
+				<div class="mb-4 inline-flex h-16 w-16 items-center justify-center rounded-full bg-secondary-500/20">
+					<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-secondary-400">
 						<circle cx="12" cy="12" r="10"/>
 						<path d="M2 12h20"/>
 						<path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>

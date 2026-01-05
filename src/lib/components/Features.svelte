@@ -163,7 +163,7 @@
 					Our <strong class="text-gray-900">comprehensive recruitment services</strong> cover sourcing, screening, assessment, and selection. Powered by AI and delivered by experienced consultants who understand your needs.
 				</p>
 				<div class="flex items-center gap-4">
-					<a href="#" class="bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
+					<a href="#" class="bg-secondary-500 px-6 py-3 text-[11px] font-bold tracking-widest text-gray-900 transition-colors hover:bg-secondary-600 uppercase">
 						Start Hiring
 					</a>
 					<a href="#" class="border border-gray-200 bg-white px-6 py-3 text-[11px] font-bold tracking-widest text-gray-900 transition-colors hover:bg-gray-50 uppercase">

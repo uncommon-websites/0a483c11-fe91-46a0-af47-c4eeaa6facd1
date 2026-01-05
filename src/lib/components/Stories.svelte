@@ -2,8 +2,8 @@
 	<div class="mx-auto max-w-[1400px] px-6">
 		<div class="mb-12 flex items-end justify-between">
 			<div>
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[04] Customer Stories</div>
-				<h2 class="text-4xl font-medium tracking-tight text-gray-900">How top teams win with Juicebox</h2>
+				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[04] Client Success</div>
+				<h2 class="text-4xl font-medium tracking-tight text-gray-900">Trusted by leading enterprises</h2>
 			</div>
 			<div class="flex gap-2">
 				<button class="flex h-10 w-10 items-center justify-center border border-gray-200 bg-white hover:bg-gray-50">
@@ -19,27 +19,27 @@
 			<!-- Story 1 -->
 			<div class="group cursor-pointer">
 				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80" alt="CoinTracker Team" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+					<img src="/generated/image-financial-services-professionals-in-a-mo-1767637997738-1.webp" alt="Financial Services Team" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
 					<div class="absolute top-4 left-4 flex items-center gap-2 text-white font-bold drop-shadow-md">
-						<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/></svg>
-						CoinTracker
+						<div class="bg-white text-black px-2 py-1 text-xs font-bold">FS</div>
+						Global Bank
 					</div>
 				</div>
-				<h3 class="mb-2 text-xl font-medium text-gray-900">How CoinTracker Saves 30+ Hours on Sourcing with AI Agents</h3>
-				<p class="text-xs text-gray-500">Valentina Miner, Full-Cycle Recruiter @ CoinTracker</p>
+				<h3 class="mb-2 text-xl font-medium text-gray-900">Scaling Technology Teams Across 15 Countries in 6 Months</h3>
+				<p class="text-xs text-gray-500">Leading Investment Bank • Financial Services</p>
 			</div>
 
 			<!-- Story 2 -->
 			<div class="group cursor-pointer">
 				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80" alt="Monte Carlo Team" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+					<img src="/generated/image-technology-startup-team-collaborating-in-1767638000524-2.webp" alt="Tech Company Team" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
 					<div class="absolute top-4 left-4 flex items-center gap-2 text-white font-bold drop-shadow-md">
-						<div class="bg-white text-black p-1 text-xs font-bold">MC</div>
-						MONTE CARLO
+						<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/></svg>
+						Tech Unicorn
 					</div>
 				</div>
-				<h3 class="mb-2 text-xl font-medium text-gray-900">How Monte Carlo Filled 2 Senior Engineering Roles in 3 Weeks</h3>
-				<p class="text-xs text-gray-500">Brenda Tam, Global Head of Recruiting & HR</p>
+				<h3 class="mb-2 text-xl font-medium text-gray-900">Building a Cloud Engineering Team from Scratch in 90 Days</h3>
+				<p class="text-xs text-gray-500">Series C Fintech Startup • Technology Services</p>
 			</div>
 		</div>
 	</div>
